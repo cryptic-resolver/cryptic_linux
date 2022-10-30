@@ -1,0 +1,51 @@
+[0.fd]
+name = "0 (Linux)"
+desc = "standard input"
+
+[1.fd]
+name = "1 (Linux)"
+desc = "standard output"
+
+[2.fd]
+name = "2 (Linux)"
+desc = "standard error"
+
+#########################
+#         man
+#########################
+
+[1.man]
+name = "man 1"
+desc = "Executable programs or shell commands"
+
+[2.man]
+name = "man 2"
+desc = "System calls"
+
+[3.man]
+name = "man 3"
+desc = "Library calls"
+
+[4.man]
+name = "man 4"
+desc = "Special files"
+
+[5.man]
+name = "man 5"
+desc = "File formats and conventions"
+
+[6.man]
+name = "man 6"
+desc = "Games"
+
+[7.man]
+name = "man 7"
+desc = "Miscellaneous"
+
+[8.man]
+name = "man 8"
+desc = "System administration commands"
+
+[9.man]
+name = "man 9"
+desc = "Kernel routines"
