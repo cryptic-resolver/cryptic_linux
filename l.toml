@@ -1,0 +1,4 @@
+[ls.Coreutils]
+name = "ls (Coreutils)"
+desc = "list"
+more = "Lists the files in a directory"

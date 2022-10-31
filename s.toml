@@ -1,0 +1,8 @@
+[stty.Coreutils]
+name = "stty (Coreutils) "
+desc = "set teletype"
+more = "Print/change terminal settings"
+
+[stat.Coreutils]
+name = "stat (Coreutils)"
+desc = "Report file(system) status"

@@ -5,3 +5,8 @@ desc = "The Linux Programming Interface"
 [tr.Coreutils]
 name = "tr (Coreutils)"
 desc = "Translate characters"
+
+[tty.Coreutils]
+name = "tty (Coreutils) "
+desc = "teletype"
+more = "Print terminal name"

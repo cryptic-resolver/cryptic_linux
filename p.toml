@@ -1,0 +1,3 @@
+[pwd.Coreutils]
+name = "pwd (Coreutils) "
+desc = "Print Working Directory"
