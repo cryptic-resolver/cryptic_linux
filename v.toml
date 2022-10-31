@@ -1,0 +1,3 @@
+[vmlinuz]
+name = "/boot/vmlinuz"
+more = "Linux kernel Zipped(Compressed, Executable), and implemened with virtual memory"
