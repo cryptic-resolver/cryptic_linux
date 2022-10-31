@@ -1,0 +1,8 @@
+[xopen]
+name = "X/Open"
+desc = "Open Group for Unix Systems"
+more = """A consortium founded by several European UNIX systems manufacturers in 1984 to identify and promote open standards. 
+
+In 1993, a planned transfer of UNIX trademark from Novell to X/Open was announced.
+
+In 1994, X/Open published the Single UNIX Specification."""
