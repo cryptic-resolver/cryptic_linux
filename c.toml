@@ -1,0 +1,3 @@
+[cat.Coreutils]
+name = "cat (Coreutils)"
+desc = "Concatenate and write files"

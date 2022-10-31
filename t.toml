@@ -1,3 +1,7 @@
 [tlpi]
 name = "TLPI"
 desc = "The Linux Programming Interface"
+
+[tr.Coreutils]
+name = "tr (Coreutils)"
+desc = "Translate characters"
