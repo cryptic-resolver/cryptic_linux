@@ -6,3 +6,32 @@ more = "Print/change terminal settings"
 [stat.Coreutils]
 name = "stat (Coreutils)"
 desc = "Report file(system) status"
+
+
+#########################
+#        SIGNAL
+#########################
+[sigterm]
+name = "SIGTERM"
+desc = "Signal Terminate"
+more = "The SIGTERM signal is sent to a process to request its termination. Unlike the SIGKILL signal, it can be caught and interpreted or ignored by the process. This allows the process to perform nice termination releasing resources and saving state if appropriate. SIGINT is nearly identical to SIGTERM."
+
+[sigstop]
+name = "SIGSTOP"
+desc = "Signal Stop"
+more = "The SIGSTOP signal instructs the operating system to stop a process for later resumption."
+
+[sigtstp]
+name = "SIGTSTP"
+desc = "Signal Terminal Stop"
+more = "The SIGTSTP signal is sent to a process by its controlling terminal to request it to stop (terminal stop). It is commonly initiated by the user pressing Ctrl+Z. Unlike SIGSTOP, the process can register a signal handler for, or ignore, the signal."
+
+[sigttin]
+name = "SIGTTIN"
+desc = "Signal Teletype Input"
+more = "The SIGTTIN signals are sent to a process when it attempts to read in from the tty while in the background. Typically, these signals are received only by processes under job control."
+
+[sigttou]
+name = "SIGTTOU"
+desc = "Signal Teletype Output"
+more = "The SIGTTOU signals are sent to a process when it attempts to write out to the tty while in the background. Typically, these signals are received only by processes under job control;"
