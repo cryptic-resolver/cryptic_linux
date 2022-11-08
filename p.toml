@@ -1,3 +1,8 @@
 [pwd.Coreutils]
 name = "pwd (Coreutils) "
 desc = "Print Working Directory"
+
+[ps.POSIX]
+name = "ps"
+desc = "Process Status"
+more = "Note: It doesn't belong to coreutils"
