@@ -1,0 +1,4 @@
+[dired]
+name = "Dired"
+desc = "Directory Editor"
+more = "File manager in Emacs as a mode"

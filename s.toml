@@ -35,3 +35,7 @@ more = "The SIGTTIN signals are sent to a process when it attempts to read in fr
 name = "SIGTTOU"
 desc = "Signal Teletype Output"
 more = "The SIGTTOU signals are sent to a process when it attempts to write out to the tty while in the background. Typically, these signals are received only by processes under job control;"
+
+[svid]
+name = "SVID"
+desc = "System V Interface Definition"
