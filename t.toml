@@ -15,3 +15,7 @@ more = "Print terminal name"
 name = "tar"
 desc = "Tape Archive"
 more = "A common archive format used on Unix-like systems. Generally used in conjunction with compressors such as gzip, bzip2, compress or xz to create .tar.gz, .tar.bz2, .tar.Z or tar.xz files."
+
+[tgmath.Header]
+name = "<tgmath.h>"
+desc = "Type-generic math"
