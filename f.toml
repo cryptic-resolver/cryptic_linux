@@ -1,3 +1,7 @@
+[fwupd]
+name = "fwupd"
+desc = "Firmware Update daemon on Linux-based system"
+
 [fuse]
 name = "FUSE"
 desc = "Filesystem in Userspace"
