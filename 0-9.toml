@@ -1,13 +1,13 @@
 [0.fd]
-name = "0 (Linux)"
+name = "fd 0"
 desc = "standard input"
 
 [1.fd]
-name = "1 (Linux)"
+name = "fd 1"
 desc = "standard output"
 
 [2.fd]
-name = "2 (Linux)"
+name = "fd 2"
 desc = "standard error"
 
 #########################
