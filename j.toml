@@ -1,0 +1,4 @@
+[jfs]
+name = "JFS"
+desc = "Journaled File-System"
+more = "Developed by IBM for AIX 3.1 in 1990. JFS is not widely used and is not used by any reputable Linux distribution as the default root file system. So it may be deleted from Linux kernel same as ReiserFS"
