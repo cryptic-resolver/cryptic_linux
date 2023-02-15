@@ -2,3 +2,25 @@
 name = "ls (Coreutils)"
 desc = "list"
 more = "Lists the files in a directory"
+
+[libbfd.GCC]
+name = "libbfd"
+same = 'bfd'
+
+[libssp.GCC]
+name = "libssp"
+desc = "Stack Smashing Protector"
+more = "A compiler feature helps detect stack buffer overrun by aborting if a secret value on the stack is changed. This serves a dual purpose in making the occurrence of such bugs visible and as exploit mitigation against return-oriented programming. SSP merely detects stack buffer overruns, they are not prevented"
+
+[libgomp.GCC]
+name = "libgomp"
+desc = "GNU Offloading and Multi Processing Runtime Library"
+more = """This includes the GNU implementation of the OpenMP Application Programming Interface (API) for multi-platform shared-memory parallel programming in C/C++ and Fortran, and the GNU implementation of the OpenACC Application Programming Interface (API) for offloading of code to accelerator devices in C/C++ and Fortran.
+
+  See: https://gcc.gnu.org/onlinedocs/libgomp/
+"""
+
+[libctf.GCC]
+name = "libctf"
+desc = "Compact C Type Format"
+more = "The CTF is a way of representing information about a binary program"

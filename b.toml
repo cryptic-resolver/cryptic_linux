@@ -1,0 +1,4 @@
+[bfd]
+name = "BFD library"
+desc = "Binary File Descriptor library"
+more = "BFD is the GNU's main mechanism for the portable manipulation of object files in a variety of formats. It works by presenting a common abstract view of object files."
