@@ -24,3 +24,19 @@ more = """This includes the GNU implementation of the OpenMP Application Program
 name = "libctf"
 desc = "Compact C Type Format"
 more = "The CTF is a way of representing information about a binary program"
+
+
+
+
+
+[ltp]
+name = "LTP"
+desc = "Linux Test Project"
+more = "Visit: http://linux-test-project.github.io/"
+
+[lcov]
+name = "LCOV"
+desc = "LTP GCOV extension"
+more = """An extension of GCOV, a GNU tool which provides information about what parts of a program are actually executed (i.e. "covered") while running a particular test case. The extension consists of a set of Perl scripts which build on the textual GCOV output to implement the enhanced functionality
+"""
+see = 'LTP'
