@@ -1,3 +1,7 @@
 [uucp]
 name = "uucp"
 desc = "Unix-to-Unix Copy"
+
+[uchardet]
+name = "uchardet"
+desc = "Universal charset Detection library"
