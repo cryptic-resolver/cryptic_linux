@@ -14,3 +14,11 @@ desc = "Flash-Friendly File System"
 [fenv.Header]
 name = "<fenv.h>"
 desc = "Floating-point Environment"
+
+[freetds]
+name = "FreeTDS"
+desc = "Tabular Data Stream"
+more = """A set of libraries for Unix and Linux that allows your programs to natively talk to Microsoft SQL Server and Sybase databases.
+
+  An open source implementation of the TDS (Tabular Data Stream) protocol used by these databases for their own clients. It supports many different flavors of the protocol and three APIs to access it. Additionally FreeTDS works with other software such as Perl and PHP, providing access from those languages as well.
+"""
