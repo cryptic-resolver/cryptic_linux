@@ -22,3 +22,8 @@ more = """A set of libraries for Unix and Linux that allows your programs to nat
 
   An open source implementation of the TDS (Tabular Data Stream) protocol used by these databases for their own clients. It supports many different flavors of the protocol and three APIs to access it. Additionally FreeTDS works with other software such as Perl and PHP, providing access from those languages as well.
 """
+
+[fc]
+name = "fc"
+desc = "first command"
+more = "Visit: https://manned.org/fc"
