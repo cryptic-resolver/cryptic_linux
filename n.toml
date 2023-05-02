@@ -10,3 +10,7 @@ more = "List symbols' names exported by object file"
 [nproc.Coreutils]
 name = "nproc (Coreutils) "
 desc = "number of processors"
+
+[nc]
+name = "nc"
+desc = "netcat"
