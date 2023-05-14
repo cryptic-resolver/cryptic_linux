@@ -25,5 +25,5 @@ more = """A set of libraries for Unix and Linux that allows your programs to nat
 
 [fc]
 name = "fc"
-desc = "first command"
+desc = "fix command"
 more = "Visit: https://manned.org/fc"
