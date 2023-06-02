@@ -1,0 +1,3 @@
+[eagain]
+name = "EAGAIN"
+desc = "Resource temporarily unavailable.  This is a temporary condition and later calls to the same routine may complete normally."
