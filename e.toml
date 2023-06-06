@@ -1,3 +1,11 @@
 [eagain]
 name = "EAGAIN"
 desc = "Resource temporarily unavailable.  This is a temporary condition and later calls to the same routine may complete normally."
+
+[esrch]
+name = "ESRCH"
+desc = "No process or process group can be found corresponding to that specified by pid"
+more = "Please refer to kill() system call"
+
+[execlp]
+name = "execlp"
