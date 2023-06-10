@@ -6,3 +6,7 @@ desc = "Print Working Directory"
 name = "ps"
 desc = "Process Status"
 more = "Note: It doesn't belong to coreutils"
+
+[pcb]
+name = "PCB"
+desc = "Process Control Block"
