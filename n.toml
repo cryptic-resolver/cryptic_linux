@@ -14,3 +14,7 @@ desc = "number of processors"
 [nc]
 name = "nc"
 desc = "netcat"
+
+[nftw]
+name = "nftw()"
+same = "ftw()=>ftw"

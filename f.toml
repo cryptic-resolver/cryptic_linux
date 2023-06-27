@@ -27,3 +27,7 @@ more = """A set of libraries for Unix and Linux that allows your programs to nat
 name = "fc"
 desc = "fix command"
 more = "Visit: https://manned.org/fc"
+
+[ftw]
+name = "ftw()"
+desc = "file tree walk"
