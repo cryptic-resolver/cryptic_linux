@@ -5,3 +5,8 @@ desc = "Unix-to-Unix Copy"
 [uchardet]
 name = "uchardet"
 desc = "Universal charset Detection library"
+
+[uio]
+name = "UIO"
+desc = "User I/O"
+more = "See /usr/include/sys/uio.h"

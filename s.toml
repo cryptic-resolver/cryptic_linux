@@ -39,3 +39,9 @@ more = "The SIGTTOU signals are sent to a process when it attempts to write out 
 [svid]
 name = "SVID"
 desc = "System V Interface Definition"
+
+[strace]
+name = "strace"
+desc = "system calls and signal tracer"
+more = "A userspace utility for Linux"
+see = ['ptrace', 'ltrace']

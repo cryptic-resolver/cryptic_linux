@@ -10,3 +10,8 @@ more = "Note: It doesn't belong to coreutils"
 [pcb]
 name = "PCB"
 desc = "Process Control Block"
+
+[ptrace]
+name = "ptrace() syscall"
+desc = "process trace"
+see = 'strace'
