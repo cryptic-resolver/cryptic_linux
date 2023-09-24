@@ -20,3 +20,8 @@ more = "a library implementing the client-side of the X11 display server protoco
 name = "XKB"
 desc = "X Keyboard Extension"
 more = "A reduced subset of keymaps specification"
+
+[xbps]
+name = "XBPS"
+desc = "X Binary Package System"
+more = "A binary package system for Void Linux"
