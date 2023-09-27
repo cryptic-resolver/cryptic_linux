@@ -10,8 +10,3 @@ more = "A process scheduler that was merged into the Linux kernel 2.6.23 (Octobe
 [cdbs.Debian]
 name = "cdbs"
 desc = "Common Debian Build System"
-
-[dh.Debian]
-name = "dh"
-desc = "new Debhelper"
-more = "Invoke dh_* scripts"

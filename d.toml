@@ -6,3 +6,8 @@ more = "File manager in Emacs as a mode"
 [dde]
 name = "DDE"
 desc = "Deepin Desktop Environment"
+
+[dh.Debian]
+name = "dh"
+desc = "new Debhelper"
+more = "Invoke dh_* scripts"
