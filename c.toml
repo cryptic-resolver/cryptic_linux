@@ -6,3 +6,12 @@ desc = "Concatenate and write files"
 name = "CFS"
 desc = "Completely Fair Scheduler"
 more = "A process scheduler that was merged into the Linux kernel 2.6.23 (October 2007) and is the default scheduler of the tasks of the SCHED_NORMAL class (i.e., tasks that have no real-time execution constraints)."
+
+[cdbs.Debian]
+name = "cdbs"
+desc = "Common Debian Build System"
+
+[dh.Debian]
+name = "dh"
+desc = "new Debhelper"
+more = "Invoke dh_* scripts"
