@@ -9,3 +9,8 @@ more = "Please refer to kill() system call"
 
 [execlp]
 name = "execlp"
+
+[eopkg]
+name = "eopkg"
+desc = "EvolveOS package"
+more = "It is the package manager for the Solus operating system, originally from Pardus Linux, and adapted/maintained during the lifetime of SolusOS, EvolveOS and Solus"
