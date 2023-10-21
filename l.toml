@@ -40,3 +40,7 @@ desc = "LTP GCOV extension"
 more = """An extension of GCOV, a GNU tool which provides information about what parts of a program are actually executed (i.e. "covered") while running a particular test case. The extension consists of a set of Perl scripts which build on the textual GCOV output to implement the enhanced functionality
 """
 see = 'LTP'
+
+[luci]
+name = "LuCI"
+desc = "OpenWrt (L)in(u)x Configuration Interface"
