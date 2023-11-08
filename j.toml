@@ -2,3 +2,12 @@
 name = "JFS"
 desc = "Journaled File-System"
 more = "Developed by IBM for AIX 3.1 in 1990. JFS is not widely used and is not used by any reputable Linux distribution as the default root file system. So it may be deleted from Linux kernel same as ReiserFS"
+
+[jffs]
+name = "JFFS"
+same = 'jffs2'
+
+[jffs2]
+name = "JFFS2"
+desc = "Journalling Flash File System"
+more = "Journalling Flash File System version 2 or JFFS2 is a log-structured file system for use with flash memory devices. It is the successor to JFFS. JFFS2 has been included into the Linux kernel since September 23, 2001, when it was merged into the Linux kernel mainline as part of the kernel version 2.4.10 release. JFFS2 is also available for a few bootloaders, like Das U-Boot, Open Firmware, the eCos RTOS, the RTEMS RTOS, and the RedBoot. Most prominent usage of the JFFS2 comes from OpenWrt"
