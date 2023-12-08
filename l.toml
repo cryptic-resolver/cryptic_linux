@@ -44,3 +44,7 @@ see = 'LTP'
 [luci]
 name = "LuCI"
 desc = "OpenWrt (L)in(u)x Configuration Interface"
+
+[lvfs]
+name = "LVFS"
+desc = "Linux Vendor Firmware Service"
