@@ -48,3 +48,8 @@ desc = "OpenWrt (L)in(u)x Configuration Interface"
 [lvfs]
 name = "LVFS"
 desc = "Linux Vendor Firmware Service"
+
+[lsm]
+name = "LSM"
+desc = "Linux Security Modules"
+more = "It's a framework within the Linux kernel that allows for the flexible integration of different security models and access control mechanisms"

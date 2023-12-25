@@ -15,3 +15,7 @@ desc = "Process Control Block"
 name = "ptrace() syscall"
 desc = "process trace"
 see = 'strace'
+
+[printk]
+name = "printk()"
+desc = "prints messages to the Kernel log"

@@ -2,3 +2,7 @@
 name = "GenWQE"
 desc = "Generic Work Queue Engine"
 more = "It supports hardware-accelerated data compression and decompression through zEDC Express, a PCIe-attached Field Programmable Gate Array (FPGA) acceleration adapter."
+
+[gid]
+name = "gid"
+desc = "group ID"

@@ -25,3 +25,8 @@ more = "A reduced subset of keymaps specification"
 name = "XBPS"
 desc = "X Binary Package System"
 more = "A binary package system for Void Linux"
+
+[xdp]
+name = "XDP"
+desc = "eXpress Data Path"
+see = 'BPF'
