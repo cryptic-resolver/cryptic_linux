@@ -45,3 +45,8 @@ name = "strace"
 desc = "system calls and signal tracer"
 more = "A userspace utility for Linux"
 see = ['ptrace', 'ltrace']
+
+[seccomp]
+name = "seccomp(2)"
+desc = "Secure Computing state"
+more = "The seccomp() system call operates on the Secure Computing (seccomp) state of the calling process"
