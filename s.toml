@@ -50,3 +50,8 @@ see = ['ptrace', 'ltrace']
 name = "seccomp(2)"
 desc = "Secure Computing state"
 more = "The seccomp() system call operates on the Secure Computing (seccomp) state of the calling process"
+
+[ss]
+name = "ss"
+desc = "socket statistics"
+more = "It allows showing information similar to netstat. It can display more TCP and state information than other tools."

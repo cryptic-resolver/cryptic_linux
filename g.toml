@@ -6,3 +6,7 @@ more = "It supports hardware-accelerated data compression and decompression thro
 [gid]
 name = "gid"
 desc = "group ID"
+
+[getdents]
+name = "getdents(2)"
+desc = "get directory entries"

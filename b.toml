@@ -2,3 +2,9 @@
 name = "BFD library"
 desc = "Binary File Descriptor library"
 more = "BFD is the GNU's main mechanism for the portable manipulation of object files in a variety of formats. It works by presenting a common abstract view of object files."
+
+[bfs]
+name = "BFS"
+desc = "Brain Fuck Scheduler"
+more = "A process scheduler designed for the Linux kernel in 2009, the author Con Kolivas did not intend for BFS to be integrated into the mainline kernel"
+see = 'CFS'

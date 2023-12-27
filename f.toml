@@ -31,3 +31,7 @@ more = "Visit: https://manned.org/fc"
 [ftw]
 name = "ftw()"
 desc = "file tree walk"
+
+[futex]
+name = "futex(2)"
+desc = "Fast User-Space Mutex"
