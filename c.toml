@@ -15,3 +15,7 @@ desc = "Common Debian Build System"
 name = "cgroup"
 desc = "Control Group"
 more = "A Linux kernel feature for organizing processes and managing their resource usage (CPU, memory, I/O, etc.)"
+
+[chrt]
+name = "chrt(1)"
+desc = "CHange Real-Time attributes of a process"

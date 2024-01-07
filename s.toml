@@ -55,3 +55,7 @@ more = "The seccomp() system call operates on the Secure Computing (seccomp) sta
 name = "ss"
 desc = "socket statistics"
 more = "It allows showing information similar to netstat. It can display more TCP and state information than other tools."
+
+[su]
+name = "su"
+desc = "Substitute User"

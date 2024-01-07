@@ -8,3 +8,7 @@ name = "BFS"
 desc = "Brain Fuck Scheduler"
 more = "A process scheduler designed for the Linux kernel in 2009, the author Con Kolivas did not intend for BFS to be integrated into the mainline kernel"
 see = 'CFS'
+
+[bkl]
+name = "BKL"
+desc = "Big Kernel Lock"
