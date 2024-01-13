@@ -24,3 +24,7 @@ desc = "prints messages to the Kernel log"
 name = "prlimit(2)"
 desc = "process resource limit"
 more = "The Linux-specific prlimit() system call combines and extends the functionality of setrlimit() and getrlimit().  It can be used to both set and get the resource limits of an arbitrary process."
+
+[perf]
+name = "perf"
+desc = "performance analyzing tool in Linux"
