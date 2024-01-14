@@ -1,0 +1,3 @@
+[kcsan]
+name = "KCSAN"
+desc = "Kernel Concurrency Sanitizer"
