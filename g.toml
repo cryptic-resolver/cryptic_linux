@@ -10,3 +10,7 @@ desc = "group ID"
 [getdents]
 name = "getdents(2)"
 desc = "get directory entries"
+
+[gfp]
+name = "GFP"
+desc = "Get Free Pages"
