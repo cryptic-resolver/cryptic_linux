@@ -11,3 +11,7 @@ desc = "Deepin Desktop Environment"
 name = "dh"
 desc = "new Debhelper"
 more = "Invoke dh_* scripts"
+
+[dcache]
+name = "dcache"
+desc = "Dirent Cache data structures"
