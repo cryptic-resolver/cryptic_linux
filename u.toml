@@ -10,3 +10,7 @@ desc = "Universal charset Detection library"
 name = "UIO"
 desc = "User I/O"
 more = "See /usr/include/sys/uio.h"
+
+[up]
+name = "UP"
+desc = "Uniprocessor"
