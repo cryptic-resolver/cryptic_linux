@@ -28,3 +28,18 @@ more = "The Linux-specific prlimit() system call combines and extends the functi
 [perf]
 name = "perf"
 desc = "performance analyzing tool in Linux"
+
+[pty]
+name = "pty"
+desc = "pseudo teletype"
+see = ['tty', 'pts', 'ptmx']
+
+[pts]
+name = "pts"
+desc = "pseudo teletype, the slave part"
+see = ['ptmx', 'pty', 'tty']
+
+[ptmx]
+name = "/dev/ptmx"
+desc = "pseudo teletype master x"
+more = "A character file. When a process opens /dev/ptmx, it gets a file descriptor for a pseudoterminal master (PTM), and a pseudoterminal slave (PTS) device is created in the /dev/pts directory. Each file descriptor obtained by opening /dev/ptmx is an independent PTM with its own associated PTS, whose path can be found by passing the descriptor to ptsname(3)."

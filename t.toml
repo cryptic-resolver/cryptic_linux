@@ -10,6 +10,7 @@ desc = "Translate characters"
 name = "tty (Coreutils) "
 desc = "teletype"
 more = "Print terminal name"
+see = ['pty', 'pts', 'ptmx']
 
 [tar]
 name = "tar"

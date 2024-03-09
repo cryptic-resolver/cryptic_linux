@@ -1,3 +1,16 @@
 [kcsan]
 name = "KCSAN"
-desc = "Kernel Concurrency Sanitizer"
+desc = "Kernel Concurrency SANitizer"
+see = ['kasan', 'kmsan']
+
+[kasan]
+name = "KASAN"
+desc = "Kernel Address SANitizer"
+more = "A dynamic memory safety error detector designed to find out-of-bounds and use-after-free bugs"
+see = ['kcsan', 'kmsan']
+
+[kmsan]
+name = "KMSAN"
+desc = "Kernel Memory Sanitizer"
+more = "A detector of uninitialized memory uses for the Linux kernel"
+see = ['kcsan', 'kasan']
