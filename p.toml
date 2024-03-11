@@ -43,3 +43,7 @@ see = ['ptmx', 'pty', 'tty']
 name = "/dev/ptmx"
 desc = "pseudo teletype master x"
 more = "A character file. When a process opens /dev/ptmx, it gets a file descriptor for a pseudoterminal master (PTM), and a pseudoterminal slave (PTS) device is created in the /dev/pts directory. Each file descriptor obtained by opening /dev/ptmx is an independent PTM with its own associated PTS, whose path can be found by passing the descriptor to ptsname(3)."
+
+[pciehp]
+name = "pciehp"
+desc = "Linux's PCIe hotplug driver"

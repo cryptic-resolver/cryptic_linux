@@ -14,3 +14,7 @@ name = "KMSAN"
 desc = "Kernel Memory Sanitizer"
 more = "A detector of uninitialized memory uses for the Linux kernel"
 see = ['kcsan', 'kasan']
+
+[kaslr]
+name = "KASLR"
+desc = "Kernel Address Space Layout Randomization"

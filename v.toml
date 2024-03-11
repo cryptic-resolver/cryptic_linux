@@ -1,3 +1,7 @@
 [vmlinuz]
 name = "/boot/vmlinuz"
 more = "Linux kernel Zipped(Compressed, Executable), and implemened with virtual memory"
+
+[vmci]
+name = "vmw_vmci"
+desc = "Virtual Machine Communication Interface by VMware"
