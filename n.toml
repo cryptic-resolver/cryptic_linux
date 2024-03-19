@@ -18,3 +18,8 @@ desc = "netcat"
 [nftw]
 name = "nftw()"
 same = "ftw()=>ftw"
+
+[nano]
+name = "nano"
+desc = "Nano's ANOther editor"
+more = "Inspired by Pico"

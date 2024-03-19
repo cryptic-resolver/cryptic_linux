@@ -47,3 +47,8 @@ more = "A character file. When a process opens /dev/ptmx, it gets a file descrip
 [pciehp]
 name = "pciehp"
 desc = "Linux's PCIe hotplug driver"
+
+[pmap]
+name = "pmap(1)"
+desc = "process map"
+more = "Report memory map of a process"
