@@ -53,3 +53,22 @@ desc = "Linux Vendor Firmware Service"
 name = "LSM"
 desc = "Linux Security Modules"
 more = "It's a framework within the Linux kernel that allows for the flexible integration of different security models and access control mechanisms"
+
+[ltrace]
+name = "ltrace"
+desc = "dynamic library calls tracer"
+more = "Display dynamic library calls of a process"
+see  = ['strace']
+
+[lwn]
+name = "LWN.net"
+desc = "Linux Weekly News"
+
+[lxc]
+name = "LXC"
+desc = "Linux Containers"
+more = "An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel"
+
+[lkml]
+name = "LKML"
+desc = "Linux kernel Mailing List"
