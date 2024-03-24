@@ -15,3 +15,8 @@ more = "Invoke dh_* scripts"
 [dcache]
 name = "dcache"
 desc = "Dirent Cache data structures"
+
+[dnf.RPM]
+name = "DNF"
+desc = "Dandified YUM"
+more = "The next-generation version of the Yellowdog Updater, Modified (yum), a package manager for .rpm-based distributions. DNF was introduced in Fedora 18 in 2013, it has been the default package manager since Fedora 22 in 2015 and Red Hat Enterprise Linux 8"

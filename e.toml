@@ -14,3 +14,7 @@ name = "execlp"
 name = "eopkg"
 desc = "EvolveOS package"
 more = "It is the package manager for the Solus operating system, originally from Pardus Linux, and adapted/maintained during the lifetime of SolusOS, EvolveOS and Solus"
+
+[eevdf]
+name = "EEVDF"
+desc = "Earliest Eligible Virtual Deadline First"

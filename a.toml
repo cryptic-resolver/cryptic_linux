@@ -2,3 +2,12 @@
 name = "aio"
 desc = "POSIX asynchronous I/O (AIO)"
 more = "The POSIX asynchronous I/O (AIO) interface allows applications to initiate one or more I/O operations that are performed asynchronously (i.e., in the background). The application can elect to be notified of completion of the I/O operation  in a variety of ways: by delivery of a signal, by instantiation of a thread, or no notification at all."
+
+[apk]
+name = "APK"
+desc = "Alpine Package Keeper"
+more = "The distribution’s package manager for Alpine Linux"
+
+[apt.debian]
+name = "APT"
+desc = "Advanced Package Tool"

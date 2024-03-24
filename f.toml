@@ -35,3 +35,11 @@ desc = "file tree walk"
 [futex]
 name = "futex(2)"
 desc = "Fast User-Space Mutex"
+
+[focal.Ubuntu]
+name = "Focal Fossa"
+desc = "Ubuntu 20.04.4 LTS"
+
+[fhs]
+name = "FHS"
+desc = "Filesystem Hierarchy Standard"

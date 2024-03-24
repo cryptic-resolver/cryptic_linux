@@ -72,3 +72,7 @@ more = "An operating-system-level virtualization method for running multiple iso
 [lkml]
 name = "LKML"
 desc = "Linux kernel Mailing List"
+
+[lsb]
+name = "LSB"
+desc = "Linux Standards Base"
