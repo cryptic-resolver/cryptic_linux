@@ -52,3 +52,9 @@ desc = "Linux's PCIe hotplug driver"
 name = "pmap(1)"
 desc = "process map"
 more = "Report memory map of a process"
+
+[pahole]
+name = "pahole"
+desc = "poke a hole"
+more = "It shows data structure layouts encoded in debugging information formats, DWARF and CTF being supported"
+see = ['DWARF', 'CTF']
